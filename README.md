@@ -61,12 +61,6 @@ This internship project strengthened my grasp of the **complete ML pipeline**—
 
 ---
 
-## 📫 Contact
-
-**Email:** diyakharel4@gmail.com  
-**GitHub:** [Insert your GitHub profile link]
-
----
 
 ## 📲 Let’s Connect & Collaborate
 
